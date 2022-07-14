@@ -34,7 +34,7 @@
     }
     else die("DB query failed.");
 
-    $task_query = "SELECT * FROM tbl_tasks_222";
+    $task_query = "SELECT * FROM tbl_tasks_222 WHERE task_id=" . $player_row["task_id"];
 
     $task_result = mysqli_query($connection, $task_query);
     if($task_result) {

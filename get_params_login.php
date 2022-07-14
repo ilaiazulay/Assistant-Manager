@@ -28,6 +28,6 @@
     $users_query = "INSERT INTO tbl_users_222 (user_id, name, email, password) VALUES ('$rowId','$name', '$email', '$password');";
     mysqli_query($connection, $users_query);
 
-    header("Location: ./index.php");
+    header("Location: ./coach.php");
 
 ?>

@@ -24,7 +24,7 @@ if(!isset($_SESSION["user_id"])) {
     }
     else die("DB query failed.");
 
-    $task = "UPDATE tbl_players_222 SET tasks = 'Active Task', task_id = '$task_id' WHERE id=" .$task_player_Id;
+    $task = "UPDATE tbl_players_222 SET tasks = 'There is an active Task', task_id = '$task_id' WHERE id=" .$task_player_Id;
     $task_player = mysqli_query($connection, $task);
         if($task_player) {
         }

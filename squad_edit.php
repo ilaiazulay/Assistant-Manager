@@ -35,7 +35,7 @@
         }
         else die("DB query failed.");
 
-        $edit_user = "UPDATE tbl_users_222 SET name = '$name' WHERE id=" .$edit_player_Id;
+        $edit_user = "UPDATE tbl_users_222 SET name = '$name' WHERE user_id=" .$edit_player_Id;
         $edit_user_table = mysqli_query($connection, $edit_user);
             if($edit_user_table) {
             }
