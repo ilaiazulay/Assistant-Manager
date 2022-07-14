@@ -1,0 +1,77 @@
+[
+        { 
+            "id" : "1", 
+            "club": "FC Barcelona", 
+            "trainer" : "Xavi",
+            "trophy": "10",
+            "comments": "As a coach, I can say that since I work with assistant manager the team has reached another level"
+        },
+
+        {
+            "id" : "2", 
+            "club": "Paris Saint Germain",
+            "trainer" : "Christophe Galtier",
+            "trophy": "15",
+            "comments":"Assistant manager has completely changed the training sessions, I can review everything and act like I was in different places at the same time."
+        },
+
+        {
+            "id" : "3", 
+            "club": "FC Bayern Munchen ",
+            "trainer" : "Julian Nagelsmann", 
+            "trophy": "12",
+            "comments":"As a coach I always had trouble managing the team when someone from the staff could not come, from the application I can manage training on my own and see the evolution of the players"
+            
+        },
+
+        {
+            "id" : "4", 
+            "club": "Chelsea FC", 
+            "trainer" : "Thomas Tuchel",
+            "trophy": "29",
+            "comments":"I can directly send the tasks that the players must do, after I review the training"
+        }, 
+
+        {
+            "id" : "5", 
+            "club": "Juventus Turin FC", 
+            "trainer" : "Massimiliano Allegri",
+            "trophy": "21",
+            "comments":"My training and my players have reached an incredible level and there are a lot of things that have changed"
+        },
+
+        {
+            "id" : "6", 
+            "club": "Real Madrid FC", 
+            "trainer": "Carlo Ancelotti",
+            "trophy": "57",
+            "comments": "As a coach, I can say that since I work with assistant manager the team has reached another level"
+        }, 
+
+        {
+            "id" : "7", 
+            "club": "Manchester United FC", 
+            "trainer": "Eric ten Hag",
+            "trophy": "43",
+            "comments":"Assistant manager has completely changed the training sessions, I can review everything and act like I was in different places at the same time."
+        },
+
+        { 
+            "id" : "8", 
+            "club": "Macnhester City FC", 
+            "trainer": "Pep Guardiola",
+            "trophy": "54",
+            "comments":"I can directly send the tasks that the players must do, after I review the training"
+        },
+
+        {
+            "id" : "9", 
+            "club": "Olympique de Marseille", 
+            "trainer" : "Igor Tudor",
+            "trophy": "6",
+            "comments":"As a coach I always had trouble managing the team when someone from the staff could not come, from the application I can manage training on my own and see the evolution of the players"
+        }
+]
+
+
+
